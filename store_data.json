@@ -1,0 +1,10 @@
+[
+    {
+        "id": "b_os",
+        "isim": "B OS (Web OS Simülasyonu)",
+        "git_url": "https://github.com/b-studio35/b-studio35.github.io.git",
+        "varsayilan_klasor": "b-studio35.github.io",
+        "aciklama": "MacOS esintili, HTML/CSS/JS tabanlı modern web işletim sistemi simülasyonu projesi.",
+        "calistirma_dosyasi": "index.html"
+    }
+]
