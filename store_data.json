@@ -8,3 +8,13 @@
         "calistirma_dosyasi": "index.html"
     }
 ]
+[
+    {
+        "id": "b_macro",
+        "isim": "B Macro",
+        "git_url": "https://github.com/B-Studio35/B-Macro.git",
+        "varsayilan_klasor": "https://github.com/B-Studio35/B-Macro",
+        "aciklama": "Oyunlarınıza kolaylık sağlayıp kalitenizi arttırıcak bir Makro uygulaması.",
+        "calistirma_dosyasi": "\dist\B Macro.exe"
+    }
+]
