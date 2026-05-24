@@ -1,11 +1,11 @@
 [
   {
-    "id": "b_os",
-    "isim": "B OS (Web OS Simülasyonu)",
-    "git_url": "https://github.com/b-studio35/b-studio35.github.io.git",
-    "varsayilan_klasor": "b-studio35.github.io",
-    "aciklama": "MacOS esintili, HTML/CSS/JS tabanlı modern web işletim sistemi simülasyonu projesi.",
-    "calistirma_dosyasi": "index.html"
+    "id": "Yakup_Tv_Simulator",
+    "isim": "Yakup Tv Simulator",
+    "git_url": "https://github.com/B-Studio35/Yakup-Tv-Simulator.git",
+    "varsayilan_klasor": "Yakup-Tv-Simulator",
+    "aciklama": "Scooter.",
+    "calistirma_dosyasi": "am.html"
   },
   {
     "id": "b_macro",
